@@ -39,4 +39,3 @@ for epoch in range(iteration):
     plt.title("Perceptron Data")
     plt.legend()
     plt.show()
-    print("Final weights:", w1, w2)
